@@ -7,7 +7,7 @@ description: "Argument 1 passed to App\\Domain\\DTO\\ShippingDneDTO::setNeighbor
 message: "Erro ao tentar buscar o conteudo. Formação de dado incorreta"
 
 # Possível problema
-Alguns CEP's não possuem CEP e provavelmente o sistema está aguardando o retorno de um bairro da API de CEP's.
+Alguns CEP's não possuem bairro e provavelmente o sistema está aguardando o retorno de um bairro da API de CEP's.
 
 -----------------------------------------------------------------
 
